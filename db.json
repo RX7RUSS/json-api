@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john@fakemail",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Jim",
+      "lastname": "Doe",
+      "email": "jim@fakemail",
+      "age": 41,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstname": "Jack",
+      "lastname": "Doe",
+      "email": "jack@fakemail",
+      "age": 24,
+      "companyId": "3"
+    },
+    {
+      "id": "4",
+      "firstname": "Jeff",
+      "lastname": "Doe",
+      "email": "jeff@fakemail",
+      "age": 30,
+      "companyId": "4"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Awesome Apple Company"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Awesome Google Company"
+    },
+    {
+      "id": "3",
+      "name": "Dell",
+      "description": "Awesome Dell Company"
+    },
+    {
+      "id": "4",
+      "name": "savageDesign",
+      "description": "Awesome savage Company"
+    }
+  ]
+}
